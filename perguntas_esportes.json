@@ -1,0 +1,22 @@
+[
+  {"pergunta": "Qual país ganhou a Copa do Mundo de 2018?", "opcoes": ["França", "Croácia", "Bélgica", "Inglaterra"], "correta": "França"},
+  {"pergunta": "Quem marcou mais gols na Copa de 2014?", "opcoes": ["James Rodríguez", "Neymar", "Messi", "Suárez"], "correta": "James Rodríguez"},
+  {"pergunta": "Quantos jogadores cada time tem em campo no futebol?", "opcoes": ["11", "10", "12", "9"], "correta": "11"},
+  {"pergunta": "Qual desses esportes é jogado no gelo?", "opcoes": ["Hóquei", "Futebol", "Basquete", "Vôlei"], "correta": "Hóquei"},
+  {"pergunta": "Quem é conhecido como 'O Rei do Futebol'?", "opcoes": ["Pelé", "Messi", "Cristiano Ronaldo", "Neymar"], "correta": "Pelé"},
+  {"pergunta": "Em qual esporte Michael Jordan se destacou?", "opcoes": ["Basquete", "Futebol", "Tênis", "Vôlei"], "correta": "Basquete"},
+  {"pergunta": "Quantos sets são necessários para vencer uma partida de tênis masculina em Grand Slam?", "opcoes": ["3", "2", "5", "4"], "correta": "3"},
+  {"pergunta": "Qual país sediou os Jogos Olímpicos de 2016?", "opcoes": ["Brasil", "China", "Reino Unido", "Japão"], "correta": "Brasil"},
+  {"pergunta": "Em que esporte se usa taco e bola para acertar buracos?", "opcoes": ["Golfe", "Beisebol", "Críquete", "Hóquei"], "correta": "Golfe"},
+  {"pergunta": "Quem venceu a NBA 2020-2021?", "opcoes": ["Milwaukee Bucks", "Los Angeles Lakers", "Golden State Warriors", "Miami Heat"], "correta": "Milwaukee Bucks"},
+  {"pergunta": "Qual país venceu a Copa do Mundo de 2010?", "opcoes": ["Espanha", "Holanda", "Alemanha", "Itália"], "correta": "Espanha"},
+  {"pergunta": "Quantos jogadores existem no vôlei por equipe?", "opcoes": ["6", "5", "7", "4"], "correta": "6"},
+  {"pergunta": "Quem é o maior medalhista olímpico da história?", "opcoes": ["Michael Phelps", "Usain Bolt", "Larisa Latynina", "Simone Biles"], "correta": "Michael Phelps"},
+  {"pergunta": "Qual desses esportes é jogado com raquete?", "opcoes": ["Tênis", "Futebol", "Basquete", "Natação"], "correta": "Tênis"},
+  {"pergunta": "Qual país venceu a Copa do Mundo de 2002?", "opcoes": ["Brasil", "Alemanha", "Itália", "França"], "correta": "Brasil"},
+  {"pergunta": "Quem é considerado o maior jogador de basquete de todos os tempos?", "opcoes": ["Michael Jordan", "LeBron James", "Kobe Bryant", "Magic Johnson"], "correta": "Michael Jordan"},
+  {"pergunta": "Em qual esporte é usado o termo 'hole in one'?", "opcoes": ["Golfe", "Beisebol", "Tiro com arco", "Tênis"], "correta": "Golfe"},
+  {"pergunta": "Qual desses esportes tem como objetivo marcar touchdowns?", "opcoes": ["Futebol Americano", "Rugby", "Futebol", "Basquete"], "correta": "Futebol Americano"},
+  {"pergunta": "Qual país sediou a Copa do Mundo de 2014?", "opcoes": ["Brasil", "Alemanha", "Espanha", "Itália"], "correta": "Brasil"},
+  {"pergunta": "Quem ganhou o prêmio Bola de Ouro em 2021?", "opcoes": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Neymar"], "correta": "Lionel Messi"}
+]
