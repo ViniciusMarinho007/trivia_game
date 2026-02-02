@@ -14,19 +14,6 @@ O jogo possui design moderno rosa/preto, botões arredondados estilo card e emba
 - Feedback visual para respostas corretas (**verde**) e erradas (**vermelho**).
 - Perguntas e respostas **embaralhadas** a cada partida.
 
----
-
- Estrutura do projeto
-
-trivia_game/
-│
-├─ main.py # Executa o jogo
-├─ gui.py # Interface Tkinter
-├─ trivia.py # Lógica do jogo
-├─ ranking.py # Banco de dados SQLite
-├─ perguntas.py # Carregar perguntas JSON
-├─ perguntas_esportes.json # Perguntas em português
-└─ README.md # Este arquivo
 
 
 
