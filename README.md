@@ -43,4 +43,5 @@ Observações
 
 As perguntas estão no arquivo perguntas_esportes.json.
 
-Você pode adicionar novas perguntas mantendo o mesmo formato JSON:
+Você pode adicionar novas perguntas mantendo o mesmo formato JSON.
+
